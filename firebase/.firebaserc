@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "staging": "flower-recognition-b300a",
+    "flower-recognition-alias": "flower-recognition-b300a"
+  },
+  "targets": {},
+  "etags": {}
+}
